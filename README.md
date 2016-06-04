@@ -7,7 +7,7 @@ Installation
 ---
 via Composer:
 ```
-$ composer require moltin/laravel-cart
+$ composer require upwebdesign/laravel-cart
 ```
 
 Add the following to your app/config/app.php to the service providers array:
