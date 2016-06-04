@@ -1,4 +1,4 @@
-Laravel Shopping Cart Package
+Laravel Shopping Cart Package (Laravel 5.2)
 ============
 
 Laravel Facade and Service Provider for Moltin\Cart
