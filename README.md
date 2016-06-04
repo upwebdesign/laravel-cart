@@ -10,14 +10,14 @@ via Composer:
 $ composer require upwebdesign/laravel-cart
 ```
 
-Add the following to your app/config/app.php to the service providers array:
+Add the following to your config/app.php to the service providers array:
 ```php
-'Moltin\Cart\CartServiceProvider',
+Moltin\Cart\CartServiceProvider::class,
 ```
 
 Then add to the aliases array the following:
 ```php
-'Cart' => 'Moltin\Cart\Facade',
+'Cart' => Moltin\Cart\Facade::class,
 ```
 
 You should then be good to go and be able to access the cart using the following static interface:
