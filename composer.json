@@ -7,7 +7,7 @@
             "email": "support@molt.in"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0",
         "laravel/framework": "~5.2",
